@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat Server", "..\..\Users\Chris\Desktop\Chatr\Server\Chat Server.csproj", "{61115A5A-CBF7-4B65-AB65-7024E0179751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat Client", "..\..\Users\Chris\Desktop\Chatr\Client\Chat Client.csproj", "{E16E8F59-6F87-4D92-A7DF-2C9243CEEDFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E64F1DA9-71E8-459C-A830-B4642C788CD7}"
+	ProjectSection(SolutionItems) = preProject
+		chat_life.png = chat_life.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61115A5A-CBF7-4B65-AB65-7024E0179751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61115A5A-CBF7-4B65-AB65-7024E0179751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61115A5A-CBF7-4B65-AB65-7024E0179751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61115A5A-CBF7-4B65-AB65-7024E0179751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E16E8F59-6F87-4D92-A7DF-2C9243CEEDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16E8F59-6F87-4D92-A7DF-2C9243CEEDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16E8F59-6F87-4D92-A7DF-2C9243CEEDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16E8F59-6F87-4D92-A7DF-2C9243CEEDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
